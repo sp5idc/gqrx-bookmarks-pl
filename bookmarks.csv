@@ -1,0 +1,264 @@
+# Tag name          ;  color
+FM                  ; #c0c0c0
+PKP                 ; #c0c0c0
+Policja             ; #c0c0c0
+Untagged            ; #c0c0c0
+70cm                ; #c0c0c0
+C4FM                ; #c0c0c0
+DMR                 ; #c0c0c0
+Air Civ             ; #c0c0c0
+Pogotowie           ; #c0c0c0
+SP                  ; #c0c0c0
+Air Mil             ; #c0c0c0
+2m                  ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+   118300000; EPWA TWR                 ; AM                  ;      10000; Air Civ
+   118775000; FIS Warszawa             ; AM                  ;      10000; Air Civ
+   119175000; EPBC Info                ; AM                  ;      10000; Air Civ
+   119450000; FIS Warszawa             ; AM                  ;      10000; Air Civ
+   120325000; EPMO AFIS                ; AM                  ;      10000; Air Civ
+   120450000; EPWA ATIS                ; AM                  ;      10000; Air Civ
+   120455000; EPWA ATIS ARR            ; AM                  ;      10000; Air Civ
+   120775000; EPMM APP                 ; AM                  ;      10000; Air Mil
+   121500000; EPWA TWR EMG             ; AM                  ;      10000; Air Civ
+   121600000; EPWA TWR DELIVERY        ; AM                  ;      10000; Air Civ
+   121900000; EPWA GRND                ; AM                  ;      10000; Air Civ
+   122300000; EPBC Radio               ; AM                  ;      10000; Air Civ
+   123430000; EPWA ATIS DEP            ; AM                  ;      10000; Air Civ
+   123925000; EPMO TOWER               ; AM                  ;      10000; Air Civ
+   125050000; EPWA APP                 ; AM                  ;      10000; Air Civ
+   125550000; EPGO                     ; AM                  ;      10000; Air Civ
+   127600000; EPWA VOLMET              ; AM                  ;      10000; Air Civ
+   128500000; EPMM AFIS                ; AM                  ;      10000; Air Mil
+   128575000; FIS Warszawa             ; AM                  ;      10000; Air Civ
+   128800000; EPWA APP                 ; AM                  ;      10000; Air Civ
+   129375000; EPWA APP DIRECTOR        ; AM                  ;      10000; Air Civ
+   129375000; EPMO APP DIRECTOR        ; AM                  ;      10000; Air Civ
+   135425000; EPMM TWR                 ; AM                  ;      10000; Air Mil
+   136250000; EPMM APP                 ; AM                  ;      10000; Air Mil
+   138250000; EPMM ATIS                ; AM                  ;      10000; Air Mil
+   144500000; SSTV                     ; Narrow FM           ;      10000; 2m
+   144800000; APRS                     ; Narrow FM           ;      10000; 2m
+   145150000; SR5W Rx                  ; Narrow FM           ;      10000; 2m
+   145450000; Loc 450                  ; Narrow FM           ;      10000; 2m
+   145500000; 145.500                  ; Narrow FM           ;      10000; 2m
+   145750000; SR5W Tx                  ; Narrow FM           ;      10000; 2m
+   145800000; ISS                      ; Narrow FM           ;      10000; Untagged
+   148662500; B01                      ; Narrow FM           ;      10000; SP
+   148675000; B02                      ; Narrow FM           ;      10000; SP
+   148687500; B03 KDW1                 ; Narrow FM           ;      10000; SP
+   148700000; B04 KRG1                 ; Narrow FM           ;      10000; SP
+   148712500; B05                      ; Narrow FM           ;      10000; SP
+   148725000; B06 Syreny OSP (Tx)      ; Narrow FM           ;      10000; SP
+   148737500; B07                      ; Narrow FM           ;      10000; SP
+   148750000; B08                      ; Narrow FM           ;      10000; SP
+   148762500; B09 Płońsk               ; Narrow FM           ;      10000; SP
+   148775000; B10 Otwock               ; Narrow FM           ;      10000; SP
+   148787500; B11                      ; Narrow FM           ;      10000; SP
+   148800000; B12                      ; Narrow FM           ;      10000; SP
+   148812500; B13                      ; Narrow FM           ;      10000; SP
+   148825000; B14 Syreny OSP (Rx)      ; Narrow FM           ;      10000; SP
+   148837500; B15                      ; Narrow FM           ;      10000; SP
+   148850000; B16                      ; Narrow FM           ;      10000; SP
+   148862500; B17                      ; Narrow FM           ;      10000; SP
+   148875000; B18 KO1                  ; Narrow FM           ;      10000; SP
+   148887500; B19                      ; Narrow FM           ;      10000; SP
+   148900000; B20 W-Wa Zach            ; Narrow FM           ;      10000; SP
+   148912500; B21                      ; Narrow FM           ;      10000; SP
+   148925000; B22 Miedzyrzec Podlaski  ; Narrow FM           ;      10000; SP
+   148937500; B23                      ; Narrow FM           ;      10000; SP
+   148950000; B24 Lubelskie            ; Narrow FM           ;      10000; SP
+   148962500; B25 W-Wa                 ; Narrow FM           ;      10000; SP
+   148975000; B26 Garwolin             ; Narrow FM           ;      10000; SP
+   148987500; B27                      ; Narrow FM           ;      10000; SP
+   149000000; B28 KSW                  ; Narrow FM           ;      10000; SP
+   149012500; B29                      ; Narrow FM           ;      10000; SP
+   149025000; B30 KG PSP               ; Narrow FM           ;      10000; SP
+   149037500; B31                      ; Narrow FM           ;      10000; SP
+   149050000; B32 Radzyń Podlaski      ; Narrow FM           ;      10000; SP
+   149062500; B33                      ; Narrow FM           ;      10000; SP
+   149075000; B34                      ; Narrow FM           ;      10000; SP
+   149087500; B35 KRG2                 ; Narrow FM           ;      10000; SP
+   149100000; B36 Janów Lubelski       ; Narrow FM           ;      10000; SP
+   149112500; B37                      ; Narrow FM           ;      10000; SP
+   149125000; B38                      ; Narrow FM           ;      10000; SP
+   149137500; B39 KRG3                 ; Narrow FM           ;      10000; SP
+   149150000; B40 Mazowieckie          ; Narrow FM           ;      10000; SP
+   149162500; B41 KRG4                 ; Narrow FM           ;      10000; SP
+   149175000; B42 Mińsk Mazowiecki     ; Narrow FM           ;      10000; SP
+   149187500; B43                      ; Narrow FM           ;      10000; SP
+   149200000; B44 Biała Podlaska       ; Narrow FM           ;      10000; SP
+   149212500; B45 SGSP                 ; Narrow FM           ;      10000; SP
+   149225000; B46 KRG5                 ; Narrow FM           ;      10000; SP
+   149237500; B47 KRG6                 ; Narrow FM           ;      10000; SP
+   149250000; B48 KDW2                 ; Narrow FM           ;      10000; SP
+   149262500; B49 KRG7                 ; Narrow FM           ;      10000; SP
+   149275000; B50 KRG8                 ; Narrow FM           ;      10000; SP
+   149287500; B51 Siedlce              ; Narrow FM           ;      10000; SP
+   149300000; B52                      ; Narrow FM           ;      10000; SP
+   149312500; B53 KO2                  ; Narrow FM           ;      10000; SP
+   149325000; B54                      ; Narrow FM           ;      10000; SP
+   149337500; B55                      ; Narrow FM           ;      10000; SP
+   149900000; U02 KSWL-HEMS            ; Narrow FM           ;      10000; SP
+   150100000; PKP 1 szlakowy           ; Narrow FM           ;      10000; PKP
+   150150000; PKP 2 szlakowy           ; Narrow FM           ;      10000; PKP
+   150175000; PKP 11 elektroe          ; Narrow FM           ;      10000; PKP
+   150200000; PKP 9 Drogowy            ; Narrow FM           ;      10000; PKP
+   150225000; PKP 3 szlakowy           ; Narrow FM           ;      10000; PKP
+   150250000; PKP 12 elektroe          ; Narrow FM           ;      10000; PKP
+   150325000; PKP 4 szlakowy           ; Narrow FM           ;      10000; PKP
+   150350000; PKP 10 Testy radiostop   ; Narrow FM           ;      10000; PKP
+   150375000; PKP 5 szlakowy           ; Narrow FM           ;      10000; PKP
+   150450000; PKP 6 szlakowy           ; Narrow FM           ;      10000; PKP
+   150475000; PKP 13 elektroe          ; Narrow FM           ;      10000; PKP
+   150500000; PKP 8 Ratunkowy          ; Narrow FM           ;      10000; PKP
+   150575000; PKP 7 szlakowy           ; Narrow FM           ;      10000; PKP
+   150700000; PKP 14 elektroe          ; Narrow FM           ;      10000; PKP
+   154550000; PKP SOK                  ; Narrow FM           ;      10000; PKP
+   168525000;                          ; Narrow FM           ;      10000; Pogotowie
+   168537500;                          ; Narrow FM           ;      10000; Pogotowie
+   168550000;                          ; Narrow FM           ;      10000; Pogotowie
+   168562500;                          ; Narrow FM           ;      10000; Pogotowie
+   168575000;                          ; Narrow FM           ;      10000; Pogotowie
+   168587500;                          ; Narrow FM           ;      10000; Pogotowie
+   168600000;                          ; Narrow FM           ;      10000; Pogotowie
+   168612500;                          ; Narrow FM           ;      10000; Pogotowie
+   168625000;                          ; Narrow FM           ;      10000; Pogotowie
+   168637500;                          ; Narrow FM           ;      10000; Pogotowie
+   168650000;                          ; Narrow FM           ;      10000; Pogotowie
+   168662500;                          ; Narrow FM           ;      10000; Pogotowie
+   168675000;                          ; Narrow FM           ;      10000; Pogotowie
+   168687500;                          ; Narrow FM           ;      10000; Pogotowie
+   168700000;                          ; Narrow FM           ;      10000; Pogotowie
+   168712500;                          ; Narrow FM           ;      10000; Pogotowie
+   168725000;                          ; Narrow FM           ;      10000; Pogotowie
+   168737500;                          ; Narrow FM           ;      10000; Pogotowie
+   168750000;                          ; Narrow FM           ;      10000; Pogotowie
+   168762500;                          ; Narrow FM           ;      10000; Pogotowie
+   168775000;                          ; Narrow FM           ;      10000; Pogotowie
+   168787500;                          ; Narrow FM           ;      10000; Pogotowie
+   168800000;                          ; Narrow FM           ;      10000; Pogotowie
+   168812500;                          ; Narrow FM           ;      10000; Pogotowie
+   168825000;                          ; Narrow FM           ;      10000; Pogotowie
+   168837500;                          ; Narrow FM           ;      10000; Pogotowie
+   168850000;                          ; Narrow FM           ;      10000; Pogotowie
+   168862500;                          ; Narrow FM           ;      10000; Pogotowie
+   168875000;                          ; Narrow FM           ;      10000; Pogotowie
+   168887500;                          ; Narrow FM           ;      10000; Pogotowie
+   168900000;                          ; Narrow FM           ;      10000; Pogotowie
+   168912500;                          ; Narrow FM           ;      10000; Pogotowie
+   168925000;                          ; Narrow FM           ;      10000; Pogotowie
+   168937500;                          ; Narrow FM           ;      10000; Pogotowie
+   168950000;                          ; Narrow FM           ;      10000; Pogotowie
+   168962500;                          ; Narrow FM           ;      10000; Pogotowie
+   168975000;                          ; Narrow FM           ;      10000; Pogotowie
+   168987500;                          ; Narrow FM           ;      10000; Pogotowie
+   169000000;                          ; Narrow FM           ;      10000; Pogotowie
+   169012500;                          ; Narrow FM           ;      10000; Pogotowie
+   169025000;                          ; Narrow FM           ;      10000; Pogotowie
+   169037500;                          ; Narrow FM           ;      10000; Pogotowie
+   169050000;                          ; Narrow FM           ;      10000; Pogotowie
+   169062500;                          ; Narrow FM           ;      10000; Pogotowie
+   169075000;                          ; Narrow FM           ;      10000; Pogotowie
+   169087500;                          ; Narrow FM           ;      10000; Pogotowie
+   169100000;                          ; Narrow FM           ;      10000; Pogotowie
+   169112500;                          ; Narrow FM           ;      10000; Pogotowie
+   169125000;                          ; Narrow FM           ;      10000; Pogotowie
+   169137500;                          ; Narrow FM           ;      10000; Pogotowie
+   169150000;                          ; Narrow FM           ;      10000; Pogotowie
+   172025000; A01                      ; Narrow FM           ;      10000; Policja
+   172050000; A02                      ; Narrow FM           ;      10000; Policja
+   172075000; A03                      ; Narrow FM           ;      10000; Policja
+   172100000; A04                      ; Narrow FM           ;      10000; Policja
+   172125000; A05                      ; Narrow FM           ;      10000; Policja
+   172150000; A06                      ; Narrow FM           ;      10000; Policja
+   172175000; A07                      ; Narrow FM           ;      10000; Policja
+   172200000; A08                      ; Narrow FM           ;      10000; Policja
+   172225000; A09                      ; Narrow FM           ;      10000; Policja
+   172250000; A10                      ; Narrow FM           ;      10000; Policja
+   172275000; A11                      ; Narrow FM           ;      10000; Policja
+   172300000; A12                      ; Narrow FM           ;      10000; Policja
+   172325000; A13                      ; Narrow FM           ;      10000; Policja
+   172350000; A14                      ; Narrow FM           ;      10000; Policja
+   172375000; A15                      ; Narrow FM           ;      10000; Policja
+   172400000; A16                      ; Narrow FM           ;      10000; Policja
+   172425000; A17                      ; Narrow FM           ;      10000; Policja
+   172450000; A18                      ; Narrow FM           ;      10000; Policja
+   172475000; A19                      ; Narrow FM           ;      10000; Policja
+   172500000; A20                      ; Narrow FM           ;      10000; Policja
+   172525000; A21 M-Maz                ; Narrow FM           ;      10000; Policja
+   172550000; A22 M-Maz, Sulejówek     ; Narrow FM           ;      10000; Policja
+   172575000; A23                      ; Narrow FM           ;      10000; Policja
+   172600000; A24                      ; Narrow FM           ;      10000; Policja
+   172625000; A25                      ; Narrow FM           ;      10000; Policja
+   172650000; A26                      ; Narrow FM           ;      10000; Policja
+   172675000; A27                      ; Narrow FM           ;      10000; Policja
+   172700000; A28                      ; Narrow FM           ;      10000; Policja
+   172725000; A29                      ; Narrow FM           ;      10000; Policja
+   172750000; A30                      ; Narrow FM           ;      10000; Policja
+   172775000; A31                      ; Narrow FM           ;      10000; Policja
+   172800000; A32                      ; Narrow FM           ;      10000; Policja
+   172825000; A33                      ; Narrow FM           ;      10000; Policja
+   172850000; A34                      ; Narrow FM           ;      10000; Policja
+   172875000; A35                      ; Narrow FM           ;      10000; Policja
+   172900000; A36                      ; Narrow FM           ;      10000; Policja
+   172925000; A37                      ; Narrow FM           ;      10000; Policja
+   172950000; A38                      ; Narrow FM           ;      10000; Policja
+   172975000; A39                      ; Narrow FM           ;      10000; Policja
+   173000000; A40                      ; Narrow FM           ;      10000; Policja
+   173025000; A41                      ; Narrow FM           ;      10000; Policja
+   173050000; A42                      ; Narrow FM           ;      10000; Policja
+   173075000; A43                      ; Narrow FM           ;      10000; Policja
+   173100000; A44                      ; Narrow FM           ;      10000; Policja
+   173125000; A45                      ; Narrow FM           ;      10000; Policja
+   173150000; A46                      ; Narrow FM           ;      10000; Policja
+   173175000; A47                      ; Narrow FM           ;      10000; Policja
+   173200000; A48 Siedlce              ; Narrow FM           ;      10000; Policja
+   173225000; A49                      ; Narrow FM           ;      10000; Policja
+   173250000; A50                      ; Narrow FM           ;      10000; Policja
+   173275000; A51                      ; Narrow FM           ;      10000; Policja
+   173300000; A52                      ; Narrow FM           ;      10000; Policja
+   173325000; A53                      ; Narrow FM           ;      10000; Policja
+   173350000; A54                      ; Narrow FM           ;      10000; Policja
+   173375000; A55                      ; Narrow FM           ;      10000; Policja
+   173400000; A56                      ; Narrow FM           ;      10000; Policja
+   173425000; A57                      ; Narrow FM           ;      10000; Policja
+   173450000; A58                      ; Narrow FM           ;      10000; Policja
+   173475000; A59                      ; Narrow FM           ;      10000; Policja
+   173500000; A60                      ; Narrow FM           ;      10000; Policja
+   173525000; A61                      ; Narrow FM           ;      10000; Policja
+   173550000; A62                      ; Narrow FM           ;      10000; Policja
+   173575000; A63                      ; Narrow FM           ;      10000; Policja
+   173600000; A64                      ; Narrow FM           ;      10000; Policja
+   173625000; A65                      ; Narrow FM           ;      10000; Policja
+   173650000; A66                      ; Narrow FM           ;      10000; Policja
+   173675000; A67                      ; Narrow FM           ;      10000; Policja
+   173700000; A68                      ; Narrow FM           ;      10000; Policja
+   173725000; A69                      ; Narrow FM           ;      10000; Policja
+   173750000; A70                      ; Narrow FM           ;      10000; Policja
+   173775000; A71                      ; Narrow FM           ;      10000; Policja
+   173800000; A72                      ; Narrow FM           ;      10000; Policja
+   173825000; A73                      ; Narrow FM           ;      10000; Policja
+   173850000; A74                      ; Narrow FM           ;      10000; Policja
+   173875000; A75                      ; Narrow FM           ;      10000; Policja
+   173900000; A76                      ; Narrow FM           ;      10000; Policja
+   173925000; A77                      ; Narrow FM           ;      10000; Policja
+   173950000; A78                      ; Narrow FM           ;      10000; Policja
+   173975000; A79                      ; Narrow FM           ;      10000; Policja
+   174000000; A80                      ; Narrow FM           ;      10000; Policja
+   278575000; EPMM APP                 ; Narrow FM           ;      10000; Air Mil
+   279075000; EPMM TWR                 ; Narrow FM           ;      10000; Air Mil
+   438337500; SR5WAD                   ; Narrow FM           ;      10000; 70cm,DMR
+   438462500; SR5WWL                   ; Narrow FM           ;      10000; 70cm
+   438500000; SR5WW                    ; Narrow FM           ;      10000; 70cm,C4FM
+   438550000; SR5WB                    ; Narrow FM           ;      10000; 70cm,DMR
+   438775000; SR5WU                    ; Narrow FM           ;      10000; 70cm,DMR
+   438887500; SR5MDV                   ; Narrow FM           ;      10000; 70cm,DMR
+   438900000; SR5WI                    ; Narrow FM           ;      10000; 70cm,C4FM
+   438950000; SR5MM                    ; Narrow FM           ;      10000; 70cm,FM
+   439000000; SR5WZ                    ; Narrow FM           ;      10000; 70cm,FM
+   439250000; SR5ZIP                   ; Narrow FM           ;      10000; 70cm,FM
+   439275000; SR5RR                    ; Narrow FM           ;      10000; 70cm,FM
+   439425000; SR5ND                    ; Narrow FM           ;      10000; 70cm,FM
+   439537500; SR0DZ                    ; Narrow FM           ;      10000; 70cm,FM
